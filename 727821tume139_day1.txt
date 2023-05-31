@@ -1,0 +1,47 @@
+Gmail Login:
+Test Scenario:
+I have to validate user login
+
+Acceptance criteria or Testcases
+1.Goto gamil.com
+2.Enter username as admin
+3.Enter pwd as admin@123
+4.click login button
+
+Gmail compose mail
+Test sccenario:
+As an admin, I have to validate compose mail.
+
+Acceptance criteria or Testcases
+1.After logged in, Click compose mail button.
+2.enter valid mail id abc@gmail.com
+3.enter msg body
+4.click send button.
+
+Gmail delete mail:
+Test scenario:
+As a admin, I have to validate delete mail.
+
+Acceptance criteria or Testcases
+1.Goto gmail.com
+2.After logged in choose the mail which is needed to be deleted
+3.Click the delete option.
+
+Gmail search mail:
+Test scenario:
+As a admin, I have to validate search a mail.
+
+
+Acceptance criteria or Testcases
+1.Goto gmail.com
+2.After logged in search for admin2.
+
+Gmail draft mail:
+Test scenario:
+As a admin, I have to validate draft a mail.
+
+Acceptance criteria or Testcases
+1.After logged in, Click compose mail button.
+2.enter valid mail id abc@gmail.com
+3.enter msg body
+4.click save as draft button.
